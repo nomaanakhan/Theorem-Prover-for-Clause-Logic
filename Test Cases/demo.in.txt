@@ -1,0 +1,6 @@
+~p q
+~z y
+~q p
+q ~p z
+q ~p ~z
+~z y ~p
